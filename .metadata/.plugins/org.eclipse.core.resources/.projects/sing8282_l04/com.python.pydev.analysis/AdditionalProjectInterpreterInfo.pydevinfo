@@ -1,0 +1,34 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jashan/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sing8282_l04/com.python.pydev.analysis/v2_indexcache
+t01|1676076340961046883|/Users/jashan/Eclipse/CP164/sing8282_l04/src/t01.py
+t03|1676126739076534896|/Users/jashan/Eclipse/CP164/sing8282_l04/src/t03.py
+t02|1676122345980633910|/Users/jashan/Eclipse/CP164/sing8282_l04/src/t02.py
+t04|1676126181634247259|/Users/jashan/Eclipse/CP164/sing8282_l04/src/t04.py
+t06|1676128627168086952|/Users/jashan/Eclipse/CP164/sing8282_l04/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+3=/Users/jashan/Eclipse/CP164/sing8282_l04/src/t01.py
+7=/Users/jashan/Eclipse/CP164/sing8282_l04/src/t02.py
+1=/Users/jashan/Eclipse/CP164/sing8282_l04/src/t04.py
+4=t01
+9=/Users/jashan/Eclipse/CP164/sing8282_l04/src/t03.py
+10=t03
+8=t02
+2=t04
+5=/Users/jashan/Eclipse/CP164/sing8282_l04/src/t06.py
+6=t06
+-- END DICTIONARY
+-- START TREE 1
+6
+b|1|b!1^36#1*19@
+key|1|key!3^15#1*35@
+n|1|n!1^28#1*19@
+sou|1|source!5^18#1*51@
+tar|4|target!7^14#1*67@target!1^15#1*19@target!9^15#1*83@target!5^17#1*51@
+val|1|value!1^33#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

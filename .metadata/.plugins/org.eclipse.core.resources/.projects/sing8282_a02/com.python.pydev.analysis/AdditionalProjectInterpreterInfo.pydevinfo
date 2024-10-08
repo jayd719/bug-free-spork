@@ -1,0 +1,37 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jashan/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sing8282_a02/com.python.pydev.analysis/v2_indexcache
+t01|1674939122169050317|/Users/jashan/Eclipse/CP164/sing8282_a02/src/t01.py
+t03|1674936557004972719|/Users/jashan/Eclipse/CP164/sing8282_a02/src/t03.py
+t02|1674936499381971587|/Users/jashan/Eclipse/CP164/sing8282_a02/src/t02.py
+t05|1674938992807745145|/Users/jashan/Eclipse/CP164/sing8282_a02/src/t05.py
+t04|1674939062790297131|/Users/jashan/Eclipse/CP164/sing8282_a02/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+8=t01
+9=/Users/jashan/Eclipse/CP164/sing8282_a02/src/t04.py
+1=/Users/jashan/Eclipse/CP164/sing8282_a02/src/t05.py
+4=t03
+3=/Users/jashan/Eclipse/CP164/sing8282_a02/src/t03.py
+5=/Users/jashan/Eclipse/CP164/sing8282_a02/src/t02.py
+6=t02
+2=t05
+7=/Users/jashan/Eclipse/CP164/sing8282_a02/src/t01.py
+10=t04
+-- END DICTIONARY
+-- START TREE 1
+9
+cou|1|counts!1^18#1*19@
+fv|5|fv!3^14#1*35@fv!5^14#1*51@fv!7^14#1*67@fv!9^14#1*83@fv!1^14#1*19@
+gen|1|genre!3^18#1*35@
+gmo|1|gmovies!3^19#1*35@
+m|1|m!9^17#1*83@
+mov|5|movies!9^15#1*83@movies!3^15#1*35@movies!5^15#1*51@movies!7^15#1*67@movies!1^15#1*19@
+rmo|1|rmovies!5^18#1*51@
+yea|1|year!7^18#1*67@
+ymo|1|ymovies!7^19#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

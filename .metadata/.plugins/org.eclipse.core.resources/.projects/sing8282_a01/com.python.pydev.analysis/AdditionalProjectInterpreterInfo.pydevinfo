@@ -1,0 +1,67 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jashan/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sing8282_a01/com.python.pydev.analysis/v2_indexcache
+functions|1674345773252661261|/Users/jashan/Eclipse/CP164/sing8282_a01/src/functions.py
+t01|1674324688633262062|/Users/jashan/Eclipse/CP164/sing8282_a01/src/t01.py
+t03|1674327200379392926|/Users/jashan/Eclipse/CP164/sing8282_a01/src/t03.py
+t02|1674325268436965674|/Users/jashan/Eclipse/CP164/sing8282_a01/src/t02.py
+t05|1674329722756821085|/Users/jashan/Eclipse/CP164/sing8282_a01/src/t05.py
+t04|1674327966916520032|/Users/jashan/Eclipse/CP164/sing8282_a01/src/t04.py
+t07|1674345395688834896|/Users/jashan/Eclipse/CP164/sing8282_a01/src/t07.py
+t06|1674332838123598029|/Users/jashan/Eclipse/CP164/sing8282_a01/src/t06.py
+t09|1674345934600658921|/Users/jashan/Eclipse/CP164/sing8282_a01/src/t09.py
+t08|1674343180822448360|/Users/jashan/Eclipse/CP164/sing8282_a01/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+1=/Users/jashan/Eclipse/CP164/sing8282_a01/src/functions.py
+5=/Users/jashan/Eclipse/CP164/sing8282_a01/src/t07.py
+7=/Users/jashan/Eclipse/CP164/sing8282_a01/src/t09.py
+15=/Users/jashan/Eclipse/CP164/sing8282_a01/src/t08.py
+2=functions
+3=/Users/jashan/Eclipse/CP164/sing8282_a01/src/t06.py
+19=/Users/jashan/Eclipse/CP164/sing8282_a01/src/t05.py
+11=/Users/jashan/Eclipse/CP164/sing8282_a01/src/t04.py
+13=/Users/jashan/Eclipse/CP164/sing8282_a01/src/t03.py
+18=t01
+14=t03
+9=/Users/jashan/Eclipse/CP164/sing8282_a01/src/t02.py
+10=t02
+17=/Users/jashan/Eclipse/CP164/sing8282_a01/src/t01.py
+20=t05
+12=t04
+6=t07
+4=t06
+8=t09
+16=t08
+-- END DICTIONARY
+-- START TREE 1
+24
+C1|1|C1!1^18#1*19@
+C2|1|C2!1^19#1*19@
+a|2|a!3^15#1*35@a!5^15#1*51@
+alp|1|ALPHA!1^14#1*19@
+b|2|b!3^16#1*35@b!5^16#1*51@
+c|1|c!5^17#1*51@
+cle|1|clean_list!1^22#5*18@
+est|1|estring!7^21#1*67@
+fh|1|fh!9^14#1*83@
+fh_|2|fh_in!7^15#1*67@fh_out!7^16#1*67@
+fil|1|file_analyze!1^44#5*18@
+fin|1|find_subs!1^77#5*18@
+is_|2|is_valid!1^125#5*18@is_leap_year!1^102#5*18@
+lea|1|leap_year!11^15#1*99@
+loc|1|locations!13^16#1*115@
+mat|2|matrixes_multiply!1^185#5*18@matrix_transpose!1^152#5*18@
+pig|1|pig_latin!1^212#5*18@
+pl|1|pl!15^15#1*131@
+shi|1|shift!1^244#5*18@
+spe|1|SPECAIL_CHAR!1^15#1*19@
+str|1|string!13^14#1*115@
+sub|1|sub!13^15#1*115@
+val|2|values!17^17#1*147@valid!19^14#1*163@
+vow|1|VOWELS!1^16#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

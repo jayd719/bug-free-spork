@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jashan/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sing8282_a08/com.python.pydev.analysis/v2_indexcache
+functions|1679859251857609296|/Users/jashan/Eclipse/CP164/sing8282_a08/src/functions.py
+t01|1679781126192494045|/Users/jashan/Eclipse/CP164/sing8282_a08/src/t01.py
+t02|1679858728160583463|/Users/jashan/Eclipse/CP164/sing8282_a08/src/t02.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=/Users/jashan/Eclipse/CP164/sing8282_a08/src/functions.py
+2=functions
+6=t01
+4=t02
+5=/Users/jashan/Eclipse/CP164/sing8282_a08/src/t01.py
+3=/Users/jashan/Eclipse/CP164/sing8282_a08/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+10
+alp|1|ALPHA!1^13#1*19@
+bst|3|bst2!3^25#1*35@bst3!3^26#1*35@bst1!3^24#1*35@
+com|1|comparison_total!1^45#5*18@
+dat|3|DATA3!3^22#1*35@DATA1!3^20#1*35@DATA2!3^21#1*35@
+do_|1|do_comparisons!1^16#5*18@
+fh|1|fh!3^28#1*35@
+let|1|letter_table!1^65#5*18@
+sep|2|SEP!3^18#1*35@SEP!5^15#1*51@
+tes|6|test_min!5^57#5*50@test_leaf_count!5^66#5*50@test_is_balanced!5^39#5*50@test_one_child_count!5^75#5*50@test_equal!5^25#5*50@test_is_valid!5^48#5*50@
+val|2|VALUES2!5^22#1*51@VALUES!5^16#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

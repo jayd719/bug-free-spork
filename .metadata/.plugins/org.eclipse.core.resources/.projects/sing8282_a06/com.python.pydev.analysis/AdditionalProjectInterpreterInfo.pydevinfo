@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jashan/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sing8282_a06/com.python.pydev.analysis/v2_indexcache
+t01|1678660889464525325|/Users/jashan/Eclipse/CP164/sing8282_a06/src/t01.py
+t03|1678981805179534634|/Users/jashan/Eclipse/CP164/sing8282_a06/src/t03.py
+t02|1678669338004804446|/Users/jashan/Eclipse/CP164/sing8282_a06/src/t02.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=/Users/jashan/Eclipse/CP164/sing8282_a06/src/t01.py
+1=/Users/jashan/Eclipse/CP164/sing8282_a06/src/t02.py
+6=t01
+3=/Users/jashan/Eclipse/CP164/sing8282_a06/src/t03.py
+4=t03
+2=t02
+-- END DICTIONARY
+-- START TREE 1
+3
+sep|3|SEP!1^14#1*19@SEP!3^13#1*35@SEP!5^14#1*51@
+tes|22|test_combine!1^172#5*18@test_insert_front_rear!3^40#5*34@test_remove!3^54#5*34@test_append!5^118#5*50@test_combine!5^145#5*50@test_remove!5^64#5*50@test_append!1^99#5*18@test_is_empty!5^21#5*50@test_len!1^31#5*18@test_is_empty!1^21#5*18@test_len!3^30#5*34@test_equal!5^194#5*50@test_len!5^31#5*50@test_split_alt!5^171#5*50@test_is_empty!3^20#5*34@test_move!1^71#5*18@test_split_alt!1^126#5*18@test_move!5^91#5*50@test_insert!1^41#5*18@test_insert!5^51#5*50@test_full!5^41#5*50@test_split_key!1^149#5*18@
+val|9|VALUES!1^15#1*19@VALUES3!1^17#1*19@VALUES!3^14#1*35@VALUES3!3^16#1*35@VALUES2!5^16#1*51@VALUES2!1^16#1*19@VALUES!5^15#1*51@VALUES2!3^15#1*35@VALUES3!5^17#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

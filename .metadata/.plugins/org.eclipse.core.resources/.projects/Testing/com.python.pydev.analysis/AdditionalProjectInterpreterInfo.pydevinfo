@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jashan/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/Testing/com.python.pydev.analysis/v2_indexcache
+functions|1674132449187049178|/Users/jashan/Eclipse/CP164/Testing/src/functions.py
+t01|1674132460997404176|/Users/jashan/Eclipse/CP164/Testing/src/t01.py
+t05|1681015483970005194|/Users/jashan/Eclipse/CP164/Testing/src/t05.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=number
+6=number.__init__
+2=t01
+4=functions
+3=/Users/jashan/Eclipse/CP164/Testing/src/functions.py
+1=/Users/jashan/Eclipse/CP164/Testing/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+2
+fun|1|fun!1^15#1*19@
+num|1|number!3^15#7*33@
+-- END TREE
+-- START TREE 2
+3
+__i|1|__init__!5&3^17#9*34@
+squ|1|square!5&3^20#9*34@
+val|1|value!6&3^18#9*35@
+-- END TREE

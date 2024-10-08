@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jashan/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sing8282_l02/com.python.pydev.analysis/v2_indexcache
+notes|1674921576786182322|/Users/jashan/Eclipse/CP164/sing8282_l02/src/notes.py
+t01|1674924158653433011|/Users/jashan/Eclipse/CP164/sing8282_l02/src/t01.py
+t03|1674925684621717890|/Users/jashan/Eclipse/CP164/sing8282_l02/src/t03.py
+t02|1674924787965602963|/Users/jashan/Eclipse/CP164/sing8282_l02/src/t02.py
+t04|1674926676191991212|/Users/jashan/Eclipse/CP164/sing8282_l02/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=notes
+7=/Users/jashan/Eclipse/CP164/sing8282_l02/src/t03.py
+9=/Users/jashan/Eclipse/CP164/sing8282_l02/src/t04.py
+4=t01
+5=/Users/jashan/Eclipse/CP164/sing8282_l02/src/t02.py
+8=t03
+6=t02
+10=t04
+3=/Users/jashan/Eclipse/CP164/sing8282_l02/src/t01.py
+11=List
+1=/Users/jashan/Eclipse/CP164/sing8282_l02/src/notes.py
+12=List.__init__
+-- END DICTIONARY
+-- START TREE 1
+4
+lis|1|List!1^16#7*17@
+s1|1|s1!3^16#1*35@
+sou|3|source!5^18#1*51@source!7^21#1*67@source!9^15#1*83@
+sta|2|stack!5^17#1*51@stack!7^17#1*67@
+-- END TREE
+-- START TREE 2
+4
+__i|1|__init__!11&1^18#9*18@
+_li|1|_linear_search!11&1^51#9*18@
+_va|1|_values!12&1^28#9*19@
+cou|1|count!11&1^30#9*18@
+-- END TREE

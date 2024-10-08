@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;singh8282_l02&apos; to &apos;sing8282_l02&apos;" description="Rename resource &apos;singh8282_l02&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/singh8282_l02" name="sing8282_l02" stamp="1675518846291" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;sing8282_l03/src/Queue_array.py&apos;" deleteContents="false" description="Delete resource &apos;sing8282_l03/src/Queue_array.py&apos;" element1="/sing8282_l03/src/Queue_array.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1675518916960"/>
+</session>

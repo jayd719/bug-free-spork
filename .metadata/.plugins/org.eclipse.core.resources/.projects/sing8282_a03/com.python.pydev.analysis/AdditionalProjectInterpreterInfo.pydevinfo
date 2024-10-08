@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/jashan/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sing8282_a03/com.python.pydev.analysis/v2_indexcache
+functions|1675616060560957862|/Users/jashan/Eclipse/CP164/sing8282_a03/src/functions.py
+t01|1675553639017939269|/Users/jashan/Eclipse/CP164/sing8282_a03/src/t01.py
+t03|1675555790962337068|/Users/jashan/Eclipse/CP164/sing8282_a03/src/t03.py
+t02|1675553733510623419|/Users/jashan/Eclipse/CP164/sing8282_a03/src/t02.py
+t05|1676075566426019734|/Users/jashan/Eclipse/CP164/sing8282_a03/src/t05.py
+t04|1675558211341798666|/Users/jashan/Eclipse/CP164/sing8282_a03/src/t04.py
+t06|1675616101968078385|/Users/jashan/Eclipse/CP164/sing8282_a03/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+9=/Users/jashan/Eclipse/CP164/sing8282_a03/src/t05.py
+1=/Users/jashan/Eclipse/CP164/sing8282_a03/src/functions.py
+2=functions
+5=/Users/jashan/Eclipse/CP164/sing8282_a03/src/t02.py
+8=t01
+7=/Users/jashan/Eclipse/CP164/sing8282_a03/src/t01.py
+11=/Users/jashan/Eclipse/CP164/sing8282_a03/src/t06.py
+3=/Users/jashan/Eclipse/CP164/sing8282_a03/src/t04.py
+6=t02
+10=t05
+4=t04
+12=t06
+-- END DICTIONARY
+-- START TREE 1
+12
+alp|1|ALPHA!1^16#1*19@
+ans|1|answer!3^16#1*35@
+exi|1|EXIT!1^19#1*19@
+is_|2|is_palindrome_stack!1^54#5*18@is_mirror_stack!1^172#5*18@
+ite|2|items!5^15#1*51@items!7^15#1*67@
+maz|4|maze3!9^22#1*83@maze2!9^20#1*83@maze!9^15#1*83@maze1!9^18#1*83@
+mir|2|MIRRORED!1^25#1*19@mirror!11^14#1*99@
+ope|1|OPERATORS!1^17#1*19@
+pat|4|path1!9^25#1*83@path3!9^27#1*83@path2!9^26#1*83@path!9^24#1*83@
+pos|1|postfix!1^95#5*18@
+sou|2|source!7^17#1*67@source!5^17#1*51@
+sta|2|stack_split_alt!1^28#5*18@stack_maze!1^129#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

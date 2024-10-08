@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sing8282_data_structures/src/Hash_Set_BSTpy&apos; to &apos;Hash_Set_BST.py&apos;" description="Rename resource &apos;Hash_Set_BSTpy&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Hash_Set_BSTpy" name="Hash_Set_BST.py" stamp="1680385222998" updateReferences="true"/>
+</session>

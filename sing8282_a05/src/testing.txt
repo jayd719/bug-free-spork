@@ -1,0 +1,203 @@
+"""
+-------------------------------------------------------
+Assignment 5 Testing
+-------------------------------------------------------
+Author:  Jashandeep Singh
+ID:      169018282
+Email:   sing8282@mylaurier.ca
+Version: "2023-02-19"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Initial State:
+Source 1:
+Dellamorte Dellamore
+Dark City
+Zulu
+----------------------------------------
+Source 2:
+Dark City
+Alphaville
+Stardust
+Zulu
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Are Two List Equal: False
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Before Clean:
+Dellamorte Dellamore
+Dark City
+Zulu
+Zulu
+Omega Man, The
+I Am Legend
+Zulu
+Omega Man, The
+--------------------
+After Clean:
+Dellamorte Dellamore
+Dark City
+Zulu
+Omega Man, The
+I Am Legend
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Intersection Of Source 1 And Source 2:
+Dark City
+Zulu
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Target after prepending an item.
+Broken Flowers
+Dark City
+Zulu
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Remove Front: Broken Flowers
+Remove Front: Dark City
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+source 1 before:
+Dellamorte Dellamore
+Dark City
+Zulu
+Omega Man, The
+I Am Legend
+Zulu
+Omega Man, The
+I Am Legend
+Zulu
+Omega Man, The
+Last Man On Earth, The
+
+Source 1 after:
+Dellamorte Dellamore
+Dark City
+Omega Man, The
+I Am Legend
+Omega Man, The
+I Am Legend
+Omega Man, The
+Last Man On Earth, The
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Test Results Split()
+Target 1::
+Dellamorte Dellamore
+Dark City
+Omega Man, The
+I Am Legend
+
+Target 2::
+Omega Man, The
+I Am Legend
+Omega Man, The
+Last Man On Earth, The
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Test Results Split()
+Target 1::
+Dark City
+Stardust
+
+Target 2::
+Alphaville
+Zulu
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Initial State:
+Source 1:
+Dark City
+Dellamorte Dellamore
+Zulu
+----------------------------------------
+Source 2:
+Alphaville
+Dark City
+Stardust
+Zulu
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Are Two List Equal: False
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Before Clean:
+Dark City
+Dellamorte Dellamore
+I Am Legend
+Omega Man, The
+Omega Man, The
+Zulu
+Zulu
+Zulu
+--------------------
+After Clean:
+Dark City
+Dellamorte Dellamore
+I Am Legend
+Omega Man, The
+Zulu
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Intersection Of Source 1 And Source 2:
+Dark City
+Zulu
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Remove Front: Dark City
+Remove Front: Zulu
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+source 1 before:
+Dark City
+Dellamorte Dellamore
+I Am Legend
+I Am Legend
+Last Man On Earth, The
+Omega Man, The
+Omega Man, The
+Omega Man, The
+Zulu
+Zulu
+Zulu
+
+Source 1 after:
+Dark City
+Dellamorte Dellamore
+I Am Legend
+I Am Legend
+Last Man On Earth, The
+Omega Man, The
+Omega Man, The
+Omega Man, The
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Test Results Split()
+Target 1::
+Dark City
+Dellamorte Dellamore
+I Am Legend
+I Am Legend
+
+Target 2::
+Last Man On Earth, The
+Omega Man, The
+Omega Man, The
+Omega Man, The
+:::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Test Results Split()
+Target 1::
+Alphaville
+Stardust
+
+Target 2::
+Dark City
+Zulu
+
+-------------------------------------------------------
